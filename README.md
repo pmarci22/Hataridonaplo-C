@@ -25,13 +25,13 @@ The program is capable of:
 ## Telepítés (Installation)
 A projekt telepítéséhez klónozd a repositoryt:
 
-git clone https://github.com/pmarci22/Hataridonaplo-C
+<strong><code>git clone https://github.com/pmarci22/Hataridonaplo-C</code></strong>
 
 Ezután navigálj a projekt könyvtárba és nyisd meg [Code Blocks](https://www.codeblocks.org/)-ban a <strong><code>Hataridonaplo_NHF.cbp</code></strong> fájlt.
 
 To install this project, you can clone it using git:
 
-git clone https://github.com/pmarci22/Hataridonaplo-C
+<strong><code>git clone https://github.com/pmarci22/Hataridonaplo-C</code></strong>
 
 Then, navigate to the project directory and open the <strong><code>Hataridonaplo_NHF.cbp</code></strong> file using [Code Blocks](https://www.codeblocks.org/).
 
