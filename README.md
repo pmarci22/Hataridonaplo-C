@@ -23,7 +23,7 @@ The program is capable of:
 - Saving the database to a file and reloading it
 
 ## Telepítés (Installation)
-A projekt telepítéséhez klónozd a git-et:
+A projekt telepítéséhez klónozd a repositoryt:
 
 git clone https://github.com/pmarci22/Hataridonaplo-C
 
