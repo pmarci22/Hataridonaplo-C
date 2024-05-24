@@ -34,6 +34,24 @@ To install this project, you can clone it using git:
 <strong><code>git clone https://github.com/pmarci22/Hataridonaplo-C</code></strong>
 
 Then, navigate to the project directory and open the <strong><code>Hataridonaplo_NHF.cbp</code></strong> file using [Code Blocks](https://www.codeblocks.org/).
+## CMake követelmények (CMake Requirements)
+
+- GNU Make
+- GCC
+
+### Fordítás és futtatás (Compile and Run)
+
+1. Klónozd a repository-t (clone):
+
+<strong><code>git clone https://github.com/pmarci22/Hataridonaplo-C.git</code></strong>
+   
+Fordítsd le a projektet a következő paranccsal (compile):
+
+<strong><code>make</code></strong>
+
+Futtasd az alkalmazást (run):
+
+<strong><code>./hataridonaplo</code></strong>
 
 ## Használat (Usage)
 A használati utasításokat a felhasználói kézikönyvben találod, amit a projekt könyvtárában találsz.
