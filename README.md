@@ -24,15 +24,15 @@ The program is capable of:
 
 ## Telepítés (Installation)
 A projekt telepítéséhez klónozd a repositoryt:
-
-<strong><code>git clone https://github.com/pmarci22/Hataridonaplo-C</code></strong>
-
+```bash
+git clone https://github.com/pmarci22/Hataridonaplo-C
+```
 Ezután navigálj a projekt könyvtárba és nyisd meg [Code Blocks](https://www.codeblocks.org/)-ban a <strong><code>Hataridonaplo_NHF.cbp</code></strong> fájlt.
 
 To install this project, you can clone it using git:
-
-<strong><code>git clone https://github.com/pmarci22/Hataridonaplo-C</code></strong>
-
+```bash
+git clone https://github.com/pmarci22/Hataridonaplo-C
+```
 Then, navigate to the project directory and open the <strong><code>Hataridonaplo_NHF.cbp</code></strong> file using [Code Blocks](https://www.codeblocks.org/).
 ## CMake követelmények (CMake Requirements)
 
@@ -43,16 +43,18 @@ Then, navigate to the project directory and open the <strong><code>Hataridonaplo
 
 1. Klónozd a repository-t (clone):
 
-<strong><code>git clone https://github.com/pmarci22/Hataridonaplo-C.git</code></strong>
+```bash
+git clone https://github.com/pmarci22/Hataridonaplo-C.git
+```
    
 Fordítsd le a projektet a következő paranccsal (compile):
-
-<strong><code>make</code></strong>
-
+```bash
+make
+```
 Futtasd az alkalmazást (run):
-
-<strong><code>./hataridonaplo</code></strong>
-
+```bash
+./hataridonaplo
+```
 ## Használat (Usage)
 A használati utasításokat a felhasználói kézikönyvben találod, amit a projekt könyvtárában találsz.
 
